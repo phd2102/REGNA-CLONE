@@ -1,0 +1,43 @@
+<div class="detail">
+
+            <h1>Few Words About Us</h1>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+
+            <div class="fir">
+
+                <div class="f_ic"><img src="briefcase.svg" height="60px" width="60px" alt=""></div>
+
+                <div class="f_de">
+
+                    <h1>EIUSMOD TEMPOR</h1>
+                    <p>Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi</p>
+
+                </div>
+
+            </div>
+
+            <div class="sec">
+
+                <div class="s_ic"><img src="list.svg" height="60px" width="60px" alt=""></div>
+
+                <div class="s_de">
+
+                    <h1>EIUSMOD TEMPOR</h1>
+                    <p>Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi</p>
+
+                </div>
+
+            </div>
+
+            <div class="th">
+
+                <div class="t_ic"><img src="binoculars.svg" height="60px" width="60px" alt=""></div>
+
+                <div class="t_de">
+
+                    <h1>EIUSMOD TEMPOR</h1>
+                    <p>Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi</p>
+
+                </div>
+
+            </div>
