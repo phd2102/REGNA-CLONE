@@ -2,9 +2,11 @@
 
   margin: 0;
   padding: 0;
-
 }
 
+
+
+/* **************************BACKGROUND IMAGE************************** */
 .back {
 
   background-image: url(img/1.jpeg);
@@ -14,6 +16,7 @@
 
 }
 
+/* **************************NAVBAR(MENUBAR)************************** */
 .logo {
 
   color: white;
@@ -106,7 +109,7 @@
   width: 100px;
 }
 
-
+/* **************************MAIN AREA************************** */
 
 .ls {
 
@@ -149,6 +152,8 @@
   background-color: aqua;
 
 }
+
+/* **************************ABOUT************************** */
 
 .about {
 
@@ -252,6 +257,8 @@
   padding-left: 24px;
 }
 
+/* **************************FACTS************************** */
+
 .main {
   width: 100%;
   float: left;
@@ -307,6 +314,8 @@
   font-size: 55px;
   padding-top: 70px;
 }
+
+/* **************************SERVICES************************** */
 
 .services {
   text-align: center;
@@ -392,6 +401,8 @@
   margin-top: 50px;
 }
 
+/* **************************CALL TO ACTION************************** */
+
 .shell {
   width: 100%;
   float: left;
@@ -438,6 +449,7 @@
 
 
 /* **************************PORTFOLIO**************************  */
+
 .portfolio {
   text-align: center;
   padding: 100px;
@@ -718,8 +730,11 @@
   width: 100%;
   float: left;
   height: 20px;
-  margin-left: 100px;
-  margin-left: 5px;
+  margin-top: 3px;
+  font-size: 25px;
+  padding: 10px;
+  margin-left: 60px;
+  /* text-align: center; */
 }
 .social:hover{
   color: #ffaf02;
@@ -814,6 +829,7 @@
   background-color: #2dc997;
   text-align: center;
   border: none;
+  border-radius: 10px;
   color: white;
 }
 .f3{
